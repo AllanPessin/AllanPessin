@@ -1,9 +1,8 @@
 ### Olá, bem-vindo ao meu GitHub 👋
 
 <a href="https://github.com/AllanPessin">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AllanPessin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=AllanPessin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
-[![AllanPessin's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanPessin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/AllanPessin)
 <a href="https://github.com/AllanPessin">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanPessin&layout=compact&langs_count=8&theme=dracula&card_width=320"/>
 </a>
